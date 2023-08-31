@@ -11,7 +11,7 @@ terraform {
 # Provider Block
 provider "azure" {
   profile = "default" 
-  region  = "ap-south-1"
+  region  = "ap-south-2"
 }
 
 #Resource Block
